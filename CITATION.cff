@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: If you use VLMGuard, please cite this paper.
+title: VLMGuard
+type: software
+repository-code: https://github.com/radiolab-ntu/vlmguard
+authors:
+  - family-names: Fang
+    given-names: Junlin
+  - family-names: Chen
+    given-names: Wenyu
+  - family-names: Ghosh
+    given-names: Reshmi
+  - family-names: Sim
+    given-names: Robert
+  - family-names: Salem
+    given-names: Ahmed
+  - family-names: Carvalho
+    given-names: Vitor R.
+  - family-names: Lawton
+    given-names: Emily
+  - family-names: Li
+    given-names: Sharon
+  - family-names: Stokes
+    given-names: Jack W.
+  - family-names: Du
+    given-names: Sean
+preferred-citation:
+  type: article
+  title: 'VLMGuard: Bootstrapping Malicious Prompt Detectors from Unlabeled Vision-Language Prompts in the Wild'
+  authors:
+    - family-names: Fang
+      given-names: Junlin
+    - family-names: Chen
+      given-names: Wenyu
+    - family-names: Ghosh
+      given-names: Reshmi
+    - family-names: Sim
+      given-names: Robert
+    - family-names: Salem
+      given-names: Ahmed
+    - family-names: Carvalho
+      given-names: Vitor R.
+    - family-names: Lawton
+      given-names: Emily
+    - family-names: Li
+      given-names: Sharon
+    - family-names: Stokes
+      given-names: Jack W.
+    - family-names: Du
+      given-names: Sean
+  journal: Transactions on Machine Learning Research
+  year: 2026
+  url: https://openreview.net/forum?id=z7gczmhmmo
